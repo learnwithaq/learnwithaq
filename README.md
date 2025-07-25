@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Qadir
 
-<!--
-**learnwithaq/learnwithaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity & Ethical Hacking Trainer
+📚 Passionate about Red Teaming, IoT Security, and Malware Analysis  
+🌐 Visit my site: [learnwithaq.com](https://learnwithaq.com)
 
-Here are some ideas to get you started:
+**Certifications:**
+- Certified Ethical Hacker - EC-Council
+- Certified Threat Intelligence Analyst - EC-Council
+- Certified Associate Python Programmer - Python Institute
+- Google Cybersecurity Professional
+- Google Cloud Cybersecurity Professional
+- Google IT Support Professional
+- IBM Cybersecurity Professional
+- Python for Cybersecurity - INFOSEC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tools & Skills
+- Kali Linux, Burp Suite, Metasploit
+- Python
+- WordPress Security Hardening
+- WiFi Attacks
+- Social Engineering
+- Email Security (BEC)
+- Cloudflare DNS Configurations and ZeroTrust
