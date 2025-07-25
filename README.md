@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ahmed Qadir
 
-🔐 Cybersecurity & Ethical Hacking Trainer
-📚 Passionate about Red Teaming, IoT Security, and Malware Analysis  
-🌐 Visit my site: [learnwithaq.com](https://learnwithaq.com)
+🔐 Cybersecurity & Ethical Hacking Trainer<br>
+📚 Passionate about Red Teaming, IoT Security, and Malware Analysis<br>
+🌐 Visit my site: [learnwithaq.com](https://learnwithaq.com)<br>
 
 **Certifications:**
 - Certified Ethical Hacker - EC-Council
