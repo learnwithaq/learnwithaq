@@ -5,7 +5,9 @@
 🌐 Visit my site: [learnwithaq.com](https://learnwithaq.com)<br>
 
 **Certifications:**
-- Certified Ethical Hacker - EC-Council
+- Certified Ethical Hacker [MASTER] - EC-Council
+  - Certified Ethical Hacker v13 [AI] - EC-Council
+  - Certified Ethical Hacker [PRACTICAL] - EC-Council
 - Certified Threat Intelligence Analyst - EC-Council
 - Certified Associate Python Programmer - Python Institute
 - Google Cybersecurity Professional
