@@ -9,7 +9,7 @@
   - Certified Ethical Hacker v13 [AI] - EC-Council
   - Certified Ethical Hacker [PRACTICAL] - EC-Council
 - Certified Threat Intelligence Analyst - EC-Council
-- Certified Red Team Analyst - Cyberwarfare Labs
+- Certified Red Team Analyst [CRTA] - Cyberwarfare Labs
 - Certified Associate Python Programmer - Python Institute
 - Google Cybersecurity Professional
 - Google Cloud Cybersecurity Professional
