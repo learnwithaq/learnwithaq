@@ -10,6 +10,7 @@
   - Certified Ethical Hacker [PRACTICAL] - EC-Council
 - Certified Threat Intelligence Analyst - EC-Council
 - Certified Red Team Analyst [CRTA] - Cyberwarfare Labs
+- Certified Fortinet Associate in Cybersecurity - Fortinet
 - Certified Associate Python Programmer - Python Institute
 - Google Cybersecurity Professional
 - Google Cloud Cybersecurity Professional
