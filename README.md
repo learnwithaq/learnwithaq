@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Qadir
 
-🔐 Cybersecurity & Ethical Hacking Trainer<br>
+🔐 Penetration Tester & Red Teamer<br>
 📚 Passionate about Red Teaming, IoT Security, and Malware Analysis<br>
 🌐 Visit my site: [learnwithaq.com](https://learnwithaq.com)<br>
 
